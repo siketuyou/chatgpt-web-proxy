@@ -167,7 +167,7 @@ node server.js
    （实际会使用网页当前的默认模型）
 
 **参考配置截图**：  
-![SillyTavern API 配置示例](SillyTarvernExample.png)
+![SillyTavern API 配置示例](SillyTavernExample.png)
 
 ### 步骤 4：保存并测试
 1. 点击 **Save（保存）**。
